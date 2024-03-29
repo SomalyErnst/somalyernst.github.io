@@ -2011,9 +2011,9 @@ input, select, textarea {
 				width: 58.33333%;
 			}
 
-			.gallery .group .span-2 {
+			/* .gallery .group .span-2 {
 				width: 66.66666%;
-			}
+			} */
 
 			.gallery .group .span-2-25 {
 				width: 74.99999%;
@@ -3364,7 +3364,7 @@ input, select, textarea {
 			-webkit-flex-basis: auto;
 			-ms-flex-basis: auto;
 			flex-basis: auto;
-			height: 18rem;
+			height: 35rem;
 		}
 
 		.panel.banner.left {
